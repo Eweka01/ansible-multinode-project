@@ -23,7 +23,8 @@ Provisioned 4 Ubuntu droplets on DigitalOcean:
 - `node2`: 68.183.99.33
 - `node3`: <your node3 IP>
 
-> Screenshot included: DigitalOcean dashboard with IPs
+<img width="1728" height="487" alt="Screenshot 2025-08-07 at 5 29 01 AM" src="https://github.com/user-attachments/assets/18b90aac-1f68-4081-bde7-c1b9f06b55de" />
+
 
 ### Step 2: SSH Access
 
